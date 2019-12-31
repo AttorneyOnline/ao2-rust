@@ -1,0 +1,7 @@
+[package]
+name = "ao2-rust"
+version = "0.0.1"
+authors = ["stonedDiscord"]
+
+[dependencies]
+ws = { git = "https://github.com/housleyjk/ws-rs" }
